@@ -12,7 +12,7 @@ This is a Laravel-based application that allows users to register, create produc
 
 ---
 
-## 🛠 Tech Stack
+## woocommercesync
 
 - Laravel 8+
 - Sanctum (auth)
